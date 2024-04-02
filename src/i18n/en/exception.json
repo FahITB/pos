@@ -1,0 +1,6 @@
+{
+  "USERNAME_ALREADY_EXISTS": "Username already exists",
+  "USER_NOT_FOUND": "User not found",
+  "UPLOAD_IMAGE_FAILED": "Upload image failed",
+  "PASSWORD_INCORRECT": "Password incorrect"
+}

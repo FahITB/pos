@@ -1,0 +1,6 @@
+{
+  "USERNAME_ALREADY_EXISTS": "ມີຊື່ຜູ້ໃຊ້ນີ້ແລ້ວ",
+  "USER_NOT_FOUND": "ບໍ່ພົບຜູ້ໃຊ້",
+  "UPLOAD_IMAGE_FAILED": "ອັບໂຫລດຮູບບໍ່ສຳເລັດ",
+  "PASSWORD_INCORRECT": "ລະຫັດຜ່ານບໍ່ຖືກຕ້ອງ"
+}
