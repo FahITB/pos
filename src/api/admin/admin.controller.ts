@@ -22,8 +22,8 @@ import { AuthGuard } from 'src/config/guard/auth.guard';
 export class AdminController {
   constructor(private readonly adminService: AdminService) { }
 
-  // @UseGuards(AuthGuard)
-  // @ApiBearerAuth()
+  @UseGuards(AuthGuard)
+  @ApiBearerAuth()
   // @ApiConsumes('multipart/form-data')
   // @UseInterceptors(FileInterceptor('profileImage'))
   @Post()
